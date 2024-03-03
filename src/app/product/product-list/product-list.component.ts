@@ -19,8 +19,6 @@ export class ProductListComponent implements AfterViewInit {
     this.productService = new ProductsService();
   }
 
-  ngOnInit()
-
   ngAfterViewInit(): void {
     if (this.productDetail) {
       console.log(this.productDetail.product);
