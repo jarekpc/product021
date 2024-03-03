@@ -1,0 +1,8 @@
+h2 {
+    border: 2px dashed black;
+}
+.copyright {
+    background-color: lightgray;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
